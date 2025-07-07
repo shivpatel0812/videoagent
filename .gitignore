@@ -57,3 +57,5 @@ __pycache__/
 .Python
 venv/
 env/
+
+backend/uploads/
