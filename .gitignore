@@ -64,3 +64,9 @@ backend/uploads/
 *.mov
 *.mkv
 *.avi
+# Stop huge uploads
+backend/uploads/
+*.mp4
+*.mov
+*.mkv
+*.avi
