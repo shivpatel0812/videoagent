@@ -59,3 +59,8 @@ venv/
 env/
 
 backend/uploads/
+
+*.mp4
+*.mov
+*.mkv
+*.avi
