@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+python-multipart
+python-socketio
+aiofiles
+pydantic
+pydantic-settings
+opencv-python
+numpy
